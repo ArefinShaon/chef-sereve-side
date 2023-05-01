@@ -13,6 +13,11 @@ app.get('/', (req,res) => {
 app.get('/chefs', (req, res) => {
     res.send(chefs)
 })
+app.get('/chefs/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const selectedChef = chefs.find(c => c.chefId === id);
+    res.send(selectedChef)
+})
 
 app.listen(port, () => {
     console.log(`server is running on port:${port} `);

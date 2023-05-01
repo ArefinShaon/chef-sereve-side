@@ -2,7 +2,7 @@
     {
         "chefId": 1,
         "chefName": "Arefin Shaon",
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?w=1060&t=st=1682972715~exp=1682973315~hmac=17a913e143c0fdf024bdc9c4ea556d6ae6e6505d69f609da772f6e02cf5b47c3",
         "yearsOfExperience": 10,
         "numberOfRecipes": 15,
         "likes": 250,
@@ -64,10 +64,10 @@
     {
         "chefId": 2,
         "chefName": "John ",
-        "chefPicture": "https://example.com/chef1.jpg",
-        "yearsOfExperience": 10,
-        "numberOfRecipes": 15,
-        "likes": 250,
+        "chefPicture": "https://img.freepik.com/free-photo/young-bearded-man-his-work-place-cooking-vegetables_496169-93.jpg?w=1060&t=st=1682972793~exp=1682973393~hmac=91054a8fc4793a9a08056539935e3856280c35ed5b803f0a4405d871de7d21f6",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 5,
+        "likes": 120,
         "bio": "John  is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
         "recipes": [
           {
@@ -126,10 +126,10 @@
     {
         "chefId": 3,
         "chefName": "Sam",
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/male-chef-kitchen-using-eggs-cook_23-2149646236.jpg?w=1060&t=st=1682972814~exp=1682973414~hmac=43a32ff3533e18683ac698a87552962b15f78ec3e2dd03485cabc96c0c28b756",
         "yearsOfExperience": 10,
         "numberOfRecipes": 15,
-        "likes": 250,
+        "likes": 350,
         "bio": "Sam is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
         "recipes": [
           {
@@ -188,7 +188,7 @@
     {
         "chefId": 4,
         "chefName": "John Smith",
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=1060&t=st=1682972843~exp=1682973443~hmac=ae1afaccd459ac01d77a64151972ef89325460ad6ca9f353d56f4bc660d8eeb3",
         "yearsOfExperience": 10,
         "numberOfRecipes": 15,
         "likes": 250,
@@ -250,7 +250,7 @@
     {
         "chefId": 5,
         "chefName": "Rahman",
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=1060&t=st=1682972910~exp=1682973510~hmac=b8e38fb79bb8a85d3d2a6e517b3c7aaa44e2f3cc3bcb11cd4dfc7698475e35e0",
         "yearsOfExperience": 10,
         "numberOfRecipes": 15,
         "likes": 250,
@@ -311,12 +311,12 @@
     },
     {
         "chefId": 6,
-        "chefName": "Tasmim",
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "Mim",
+        "chefPicture": "https://img.freepik.com/free-photo/pleased-young-female-cook-wearing-chef-uniform-points-side-isolated-pink-wall-with-copy-space_141793-119846.jpg?w=900&t=st=1682972940~exp=1682973540~hmac=6001022319d1614d79ee5682dbca3871393311188a68a07d61fb6baa3ac1c813",
         "yearsOfExperience": 10,
         "numberOfRecipes": 15,
         "likes": 250,
-        "bio": "Tasmim is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
+        "bio": "Mim is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
         "recipes": [
           {
             "id": 1,

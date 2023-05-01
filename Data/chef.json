@@ -1,0 +1,375 @@
+[
+    {
+        "chefId": 1,
+        "chefName": "Arefin Shaon",
+        "chefPicture": "https://example.com/chef1.jpg",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 15,
+        "likes": 250,
+        "bio": "Arefin Shaon is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
+        "recipes": [
+          {
+            "id": 1,
+            "name": "Spicy Chicken Curry",
+            "ingredients": [
+              "1 pound boneless, skinless chicken breasts",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can (14.5 oz) diced tomatoes",
+              "1 can (8 oz) tomato sauce",
+              "1 tablespoon curry powder",
+              "1 teaspoon cumin",
+              "1/4 teaspoon cayenne pepper",
+              "1/2 cup plain yogurt",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. In a large skillet, cook chicken over medium heat until no longer pink. Remove from skillet and set aside. \n2. In the same skillet, cook onion and garlic until tender. Stir in tomatoes, tomato sauce, curry powder, cumin, and cayenne pepper. Bring to a boil, then reduce heat and simmer for 10 minutes. \n3. Stir in yogurt and cooked chicken. Cook for an additional 5 minutes, or until heated through. Season with salt and pepper to taste. \n4. Serve over rice or with naan bread.",
+            "rating": 4.5,
+            "isFavorite": false
+          },
+          {
+            "id": 2,
+            "name": "Tomato and Basil Bruschetta",
+            "ingredients": [
+              "4 roma tomatoes, chopped",
+              "1/4 cup fresh basil leaves, chopped",
+              "2 cloves garlic, minced",
+              "2 tablespoons balsamic vinegar",
+              "2 tablespoons olive oil",
+              "Salt and pepper to taste",
+              "1 baguette, sliced",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          },
+          {
+            "id": 3,
+            "name": "Pesto Pasta Salad",
+            "ingredients": [
+              "1 pound rotini pasta",
+              "1/2 cup prepared pesto",
+              "1/4 cup olive oil",
+              "1/4 cup grated Parmesan cheese",
+              "1/4 cup pine nuts",
+              "1/4 cup chopped fresh basil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          }
+        ]
+            
+    },
+    {
+        "chefId": 2,
+        "chefName": "John ",
+        "chefPicture": "https://example.com/chef1.jpg",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 15,
+        "likes": 250,
+        "bio": "John  is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
+        "recipes": [
+          {
+            "id": 1,
+            "name": "Spicy Chicken Curry",
+            "ingredients": [
+              "1 pound boneless, skinless chicken breasts",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can (14.5 oz) diced tomatoes",
+              "1 can (8 oz) tomato sauce",
+              "1 tablespoon curry powder",
+              "1 teaspoon cumin",
+              "1/4 teaspoon cayenne pepper",
+              "1/2 cup plain yogurt",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. In a large skillet, cook chicken over medium heat until no longer pink. Remove from skillet and set aside. \n2. In the same skillet, cook onion and garlic until tender. Stir in tomatoes, tomato sauce, curry powder, cumin, and cayenne pepper. Bring to a boil, then reduce heat and simmer for 10 minutes. \n3. Stir in yogurt and cooked chicken. Cook for an additional 5 minutes, or until heated through. Season with salt and pepper to taste. \n4. Serve over rice or with naan bread.",
+            "rating": 4.5,
+            "isFavorite": false
+          },
+          {
+            "id": 2,
+            "name": "Tomato and Basil Bruschetta",
+            "ingredients": [
+              "4 roma tomatoes, chopped",
+              "1/4 cup fresh basil leaves, chopped",
+              "2 cloves garlic, minced",
+              "2 tablespoons balsamic vinegar",
+              "2 tablespoons olive oil",
+              "Salt and pepper to taste",
+              "1 baguette, sliced",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          },
+          {
+            "id": 3,
+            "name": "Pesto Pasta Salad",
+            "ingredients": [
+              "1 pound rotini pasta",
+              "1/2 cup prepared pesto",
+              "1/4 cup olive oil",
+              "1/4 cup grated Parmesan cheese",
+              "1/4 cup pine nuts",
+              "1/4 cup chopped fresh basil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          }
+        ]
+            
+    },
+    {
+        "chefId": 3,
+        "chefName": "Sam",
+        "chefPicture": "https://example.com/chef1.jpg",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 15,
+        "likes": 250,
+        "bio": "Sam is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
+        "recipes": [
+          {
+            "id": 1,
+            "name": "Spicy Chicken Curry",
+            "ingredients": [
+              "1 pound boneless, skinless chicken breasts",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can (14.5 oz) diced tomatoes",
+              "1 can (8 oz) tomato sauce",
+              "1 tablespoon curry powder",
+              "1 teaspoon cumin",
+              "1/4 teaspoon cayenne pepper",
+              "1/2 cup plain yogurt",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. In a large skillet, cook chicken over medium heat until no longer pink. Remove from skillet and set aside. \n2. In the same skillet, cook onion and garlic until tender. Stir in tomatoes, tomato sauce, curry powder, cumin, and cayenne pepper. Bring to a boil, then reduce heat and simmer for 10 minutes. \n3. Stir in yogurt and cooked chicken. Cook for an additional 5 minutes, or until heated through. Season with salt and pepper to taste. \n4. Serve over rice or with naan bread.",
+            "rating": 4.5,
+            "isFavorite": false
+          },
+          {
+            "id": 2,
+            "name": "Tomato and Basil Bruschetta",
+            "ingredients": [
+              "4 roma tomatoes, chopped",
+              "1/4 cup fresh basil leaves, chopped",
+              "2 cloves garlic, minced",
+              "2 tablespoons balsamic vinegar",
+              "2 tablespoons olive oil",
+              "Salt and pepper to taste",
+              "1 baguette, sliced",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          },
+          {
+            "id": 3,
+            "name": "Pesto Pasta Salad",
+            "ingredients": [
+              "1 pound rotini pasta",
+              "1/2 cup prepared pesto",
+              "1/4 cup olive oil",
+              "1/4 cup grated Parmesan cheese",
+              "1/4 cup pine nuts",
+              "1/4 cup chopped fresh basil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          }
+        ]
+            
+    },
+    {
+        "chefId": 4,
+        "chefName": "John Smith",
+        "chefPicture": "https://example.com/chef1.jpg",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 15,
+        "likes": 250,
+        "bio": "John Smith is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
+        "recipes": [
+          {
+            "id": 1,
+            "name": "Spicy Chicken Curry",
+            "ingredients": [
+              "1 pound boneless, skinless chicken breasts",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can (14.5 oz) diced tomatoes",
+              "1 can (8 oz) tomato sauce",
+              "1 tablespoon curry powder",
+              "1 teaspoon cumin",
+              "1/4 teaspoon cayenne pepper",
+              "1/2 cup plain yogurt",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. In a large skillet, cook chicken over medium heat until no longer pink. Remove from skillet and set aside. \n2. In the same skillet, cook onion and garlic until tender. Stir in tomatoes, tomato sauce, curry powder, cumin, and cayenne pepper. Bring to a boil, then reduce heat and simmer for 10 minutes. \n3. Stir in yogurt and cooked chicken. Cook for an additional 5 minutes, or until heated through. Season with salt and pepper to taste. \n4. Serve over rice or with naan bread.",
+            "rating": 4.5,
+            "isFavorite": false
+          },
+          {
+            "id": 2,
+            "name": "Tomato and Basil Bruschetta",
+            "ingredients": [
+              "4 roma tomatoes, chopped",
+              "1/4 cup fresh basil leaves, chopped",
+              "2 cloves garlic, minced",
+              "2 tablespoons balsamic vinegar",
+              "2 tablespoons olive oil",
+              "Salt and pepper to taste",
+              "1 baguette, sliced",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          },
+          {
+            "id": 3,
+            "name": "Pesto Pasta Salad",
+            "ingredients": [
+              "1 pound rotini pasta",
+              "1/2 cup prepared pesto",
+              "1/4 cup olive oil",
+              "1/4 cup grated Parmesan cheese",
+              "1/4 cup pine nuts",
+              "1/4 cup chopped fresh basil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          }
+        ]
+            
+    },
+    {
+        "chefId": 5,
+        "chefName": "Rahman",
+        "chefPicture": "https://example.com/chef1.jpg",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 15,
+        "likes": 250,
+        "bio": " Rahman is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
+        "recipes": [
+          {
+            "id": 1,
+            "name": "Spicy Chicken Curry",
+            "ingredients": [
+              "1 pound boneless, skinless chicken breasts",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can (14.5 oz) diced tomatoes",
+              "1 can (8 oz) tomato sauce",
+              "1 tablespoon curry powder",
+              "1 teaspoon cumin",
+              "1/4 teaspoon cayenne pepper",
+              "1/2 cup plain yogurt",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. In a large skillet, cook chicken over medium heat until no longer pink. Remove from skillet and set aside. \n2. In the same skillet, cook onion and garlic until tender. Stir in tomatoes, tomato sauce, curry powder, cumin, and cayenne pepper. Bring to a boil, then reduce heat and simmer for 10 minutes. \n3. Stir in yogurt and cooked chicken. Cook for an additional 5 minutes, or until heated through. Season with salt and pepper to taste. \n4. Serve over rice or with naan bread.",
+            "rating": 4.5,
+            "isFavorite": false
+          },
+          {
+            "id": 2,
+            "name": "Tomato and Basil Bruschetta",
+            "ingredients": [
+              "4 roma tomatoes, chopped",
+              "1/4 cup fresh basil leaves, chopped",
+              "2 cloves garlic, minced",
+              "2 tablespoons balsamic vinegar",
+              "2 tablespoons olive oil",
+              "Salt and pepper to taste",
+              "1 baguette, sliced",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          },
+          {
+            "id": 3,
+            "name": "Pesto Pasta Salad",
+            "ingredients": [
+              "1 pound rotini pasta",
+              "1/2 cup prepared pesto",
+              "1/4 cup olive oil",
+              "1/4 cup grated Parmesan cheese",
+              "1/4 cup pine nuts",
+              "1/4 cup chopped fresh basil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          }
+        ]
+            
+    },
+    {
+        "chefId": 6,
+        "chefName": "Tasmim",
+        "chefPicture": "https://example.com/chef1.jpg",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 15,
+        "likes": 250,
+        "bio": "Tasmim is a professional chef with over 10 years of experience in cooking delicious meals from various cuisines.",
+        "recipes": [
+          {
+            "id": 1,
+            "name": "Spicy Chicken Curry",
+            "ingredients": [
+              "1 pound boneless, skinless chicken breasts",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can (14.5 oz) diced tomatoes",
+              "1 can (8 oz) tomato sauce",
+              "1 tablespoon curry powder",
+              "1 teaspoon cumin",
+              "1/4 teaspoon cayenne pepper",
+              "1/2 cup plain yogurt",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. In a large skillet, cook chicken over medium heat until no longer pink. Remove from skillet and set aside. \n2. In the same skillet, cook onion and garlic until tender. Stir in tomatoes, tomato sauce, curry powder, cumin, and cayenne pepper. Bring to a boil, then reduce heat and simmer for 10 minutes. \n3. Stir in yogurt and cooked chicken. Cook for an additional 5 minutes, or until heated through. Season with salt and pepper to taste. \n4. Serve over rice or with naan bread.",
+            "rating": 4.5,
+            "isFavorite": false
+          },
+          {
+            "id": 2,
+            "name": "Tomato and Basil Bruschetta",
+            "ingredients": [
+              "4 roma tomatoes, chopped",
+              "1/4 cup fresh basil leaves, chopped",
+              "2 cloves garlic, minced",
+              "2 tablespoons balsamic vinegar",
+              "2 tablespoons olive oil",
+              "Salt and pepper to taste",
+              "1 baguette, sliced",
+              "1/4 cup grated Parmesan cheese"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          },
+          {
+            "id": 3,
+            "name": "Pesto Pasta Salad",
+            "ingredients": [
+              "1 pound rotini pasta",
+              "1/2 cup prepared pesto",
+              "1/4 cup olive oil",
+              "1/4 cup grated Parmesan cheese",
+              "1/4 cup pine nuts",
+              "1/4 cup chopped fresh basil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F (200 degrees C). \n2. In a large bowl, mix together tomatoes, basil, garlic, balsamic vinegar, olive oil, salt, and pepper. \n3. Arrange baguette slices in a single layer on a baking sheet. Top each slice with the tomato mixture and sprinkle with Parmesan cheese. \n4. Bake for 10-12 minutes, or until bread is lightly toasted and cheese is melted.",
+            "rating": 4.2
+          }
+        ]
+            
+    }
+            
+]

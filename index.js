@@ -1,12 +1,17 @@
 const express = require('express');
 const cors = require('cors');
 const app = express()
-const port = 5000;
+const port = process.env.PORT || 5000;
 
+const chefs = require ('./Data/chef.json')
 app.use(cors());
 
 app.get('/', (req,res) => {
-    req.setEncoding('server is running');
+    res.send('server is running');
+})
+
+app.get('/chefs', (req, res) => {
+    res.send(chefs)
 })
 
 app.listen(port, () => {
